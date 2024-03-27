@@ -1746,7 +1746,8 @@
   "lives": [
     { "name": "tvlive",
       "type": 0,
-      "url": "http://120.79.4.185/new/mdlive.txt",
+      //"url": "http://120.79.4.185/new/mdlive.txt",
+      "url": "https://raw.githubusercontent.com/tianli1680/SG/main/lib/live.txt",
       "playerType": 1}  ],
   "rules": [
     {
